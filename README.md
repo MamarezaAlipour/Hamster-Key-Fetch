@@ -1,8 +1,8 @@
 # Hamster Kombat Key Generator
 
-### You Know EveryThing!
+### ⭐ 💹 You Know EveryThing!
 
-## ⭐ 💹 Need help? 
+## Need help? 
 - Contact me: [Telegram](https://t.me/MamarezaAlipour)
 
 ## Disclaimer
