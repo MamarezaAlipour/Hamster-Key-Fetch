@@ -1,3 +1,30 @@
+:root {
+    --bg-color: #f5f7fa;
+    --selected-bg-color: #007bff;
+    --selected-text-color: #ffffff;
+    --container-bg: #ffffff;
+    --text-color: #333;
+    --heading-color: #007bff;
+    --border-color: #ddd;
+    --hover-border-color: #007bff;
+    --label-color: #555;
+    --slider-bg: #ddd;
+    --slider-thumb: #007bff;
+    --slider-thumb-hover: #0056b3;
+    --button-bg: #007bff;
+    --button-color: white;
+    --button-hover: #0056b3;
+    --progress-bg: #f5f7fa;
+    --progress-fill: #007bff;
+    --input-border: #ccc;
+    --input-bg: #ffffff;
+    --copy-button-bg: #28a745;
+    --copy-button-hover: #218838;
+    --footer-color: #777;
+    --copy-status-color: green;
+    --box-shadow: 0 4px 20px rgba(0, 0, 0, 0.1);
+}
+
 [data-theme="dark"] {
     --bg-color: #1a1a1a;
     --selected-bg-color: #2c3e50;
