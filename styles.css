@@ -1,3 +1,30 @@
+[data-theme="dark"] {
+    --bg-color: #1a1a1a;
+    --selected-bg-color: #2c3e50;
+    --selected-text-color: #ecf0f1;
+    --container-bg: #2a2a2a;
+    --text-color: #e0e0e0;
+    --heading-color: #4da3ff;
+    --border-color: #444;
+    --hover-border-color: #4da3ff;
+    --label-color: #bbb;
+    --slider-bg: #444;
+    --slider-thumb: #4da3ff;
+    --slider-thumb-hover: #3a7abd;
+    --button-bg: #4da3ff;
+    --button-color: #1a1a1a;
+    --button-hover: #3a7abd;
+    --progress-bg: #444;
+    --progress-fill: #4da3ff;
+    --input-border: #444;
+    --input-bg: #333;
+    --copy-button-bg: #2ecc71;
+    --copy-button-hover: #27ae60;
+    --footer-color: #888;
+    --copy-status-color: #2ecc71;
+    --box-shadow: 0 4px 20px rgba(255, 255, 255, 0.1);
+}
+
 body {
     font-family: 'Roboto', sans-serif;
     background-color: #f5f7fa;
