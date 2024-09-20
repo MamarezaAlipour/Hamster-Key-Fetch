@@ -1,4 +1,4 @@
-# Hamster Kombat Key Generator
+# Hamster Kombat Diamond Generator
 
 ### ⭐ 💹 You Know EveryThing!
 ### Just go to https://mamarezaalipour.github.io/HamsterKeyFetch/ and select the number of keys you want for the game you want and wait!
